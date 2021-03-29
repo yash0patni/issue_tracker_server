@@ -1,0 +1,87 @@
+{
+  "issues": [
+    {
+      "id": "e51ba780-63b2-4864-985a-fdbce3239e89",
+      "description": "Cart not working",
+      "severity": "Major",
+      "status": "Open",
+      "createdDate": "March 24th 2021",
+      "lastUpdated": "March 24th 2021",
+      "resolvedDate": null,
+      "loggedBy": "john.doe@test.com",
+      "lastUpdatedBy": "john.doe@test.com",
+      "loggedByName": "John Doe",
+      "lastUpdatedByName": "John Doe"
+    },
+    {
+      "id": "406b2964-e3d0-448f-b8b8-1bed37a2bb0b",
+      "description": "Edit button not working",
+      "severity": "Critical",
+      "status": "In Progress",
+      "createdDate": "March 24th 2021",
+      "lastUpdated": "March 24th 2021",
+      "resolvedDate": null,
+      "loggedBy": "john.doe@test.com",
+      "lastUpdatedBy": "garry.vee@test.com",
+      "loggedByName": "John Doe",
+      "lastUpdatedByName": "Garry Vee"
+    },
+    {
+      "id": "54d673c3-9a04-4ba4-acc1-2b7f41833287",
+      "description": "Change heading",
+      "severity": "Minor",
+      "status": "Closed",
+      "createdDate": "March 24th 2021",
+      "lastUpdated": "March 24th 2021",
+      "resolvedDate": "March 24th 2021",
+      "loggedBy": "john.doe@test.com",
+      "lastUpdatedBy": "garry.vee@test.com",
+      "loggedByName": "John Doe",
+      "lastUpdatedByName": "Garry Vee"
+    },
+    {
+      "id": "2907313f-4170-4a37-9880-130b3ad0c81e",
+      "description": "Add more icons on page",
+      "severity": "Critical",
+      "status": "Closed",
+      "createdDate": "March 24th 2021",
+      "lastUpdated": "March 24th 2021",
+      "resolvedDate": "March 24th 2021",
+      "loggedBy": "garry.vee@test.com",
+      "lastUpdatedBy": "john.doe@test.com",
+      "loggedByName": "Garry Vee",
+      "lastUpdatedByName": "John Doe"
+    },
+    {
+      "id": "30eb6092-a1e6-417e-9685-ac27d141fa35",
+      "description": "Add footer on page",
+      "severity": "Major",
+      "status": "Open",
+      "createdDate": "March 24th 2021",
+      "lastUpdated": "March 24th 2021",
+      "resolvedDate": null,
+      "loggedBy": "garry.vee@test.com",
+      "lastUpdatedBy": "garry.vee@test.com",
+      "loggedByName": "Garry Vee",
+      "lastUpdatedByName": "Garry Vee"
+    }
+  ],
+  "users": [
+    {
+      "id": "john.doe@test.com",
+      "password": "Test@123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "contact": "9876543210",
+      "location": "India"
+    },
+    {
+      "id": "garry.vee@test.com",
+      "password": "Test@123",
+      "firstName": "Garry",
+      "lastName": "Vee",
+      "contact": "9876543201",
+      "location": "India"
+    }
+  ]
+}
